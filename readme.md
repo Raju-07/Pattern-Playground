@@ -1,4 +1,3 @@
-ser.name"Your Name"
 
 # Pattern Playground Repository
 
